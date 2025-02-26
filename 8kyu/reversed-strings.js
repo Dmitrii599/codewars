@@ -3,7 +3,7 @@
 // assert.strictEqual(solution('world'), 'dlrow');
 // assert.strictEqual(solution('hello'), 'olleh');
 // assert.strictEqual(solution(''), '');
-// assert.strictEqual(solution('h'), 'h');
+// assert.strictEqual(solution('h'), 'h');;
 
 // ‼️Best solution:
 // function solution(str){
